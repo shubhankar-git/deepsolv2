@@ -1,0 +1,4 @@
+gradio
+langchain
+openai
+faiss-cpu
